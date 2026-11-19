@@ -1,0 +1,17 @@
+{
+  "name": "Audio Guide — Uzbekistan & Karakalpakstan",
+  "short_name": "AudioGuide",
+  "description": "1-tap QR Audio Guide, Offline Routes, Grounded AI Guide & Verified Local Guides in Karakalpak, Uzbek, Russian, and English.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
