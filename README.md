@@ -3,6 +3,7 @@
 [![Backend Tests](https://img.shields.io/badge/pytest-58%20passed-brightgreen)](#)
 [![Next.js Build](https://img.shields.io/badge/next.js-15.1.6%20build%20passing-blue)](#)
 [![Languages](https://img.shields.io/badge/languages-kaa%20%7C%20uz%20%7C%20ru%20%7C%20en-orange)](#)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhylgidra-cmd%2FGitAI&root-directory=web)
 
 A production-grade, multi-tenant Audio Guide and Grounded AI Tourist Companion Progressive Web Application (PWA) built according to **Technical Specification (TZ v2.0)**.
 
