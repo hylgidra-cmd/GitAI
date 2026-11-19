@@ -10,8 +10,13 @@ app = FastAPI(
     title="Audio Guide API",
     version="0.3.0",
     openapi_url="/api/v1/openapi.json",
-    docs_url="/api/v1/docs",
+    docs_url="/docs",
 )
+
+
+@app.get("/health", tags=["system"])
+def root_health() -> dict:
+    return {"status": "ok", "service": "Audio Guide API"}
 
 app.add_middleware(
     CORSMiddleware,
