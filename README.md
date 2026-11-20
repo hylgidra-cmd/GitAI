@@ -5,6 +5,9 @@
 [![Languages](https://img.shields.io/badge/languages-kaa%20%7C%20uz%20%7C%20ru%20%7C%20en-orange)](#)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhylgidra-cmd%2FGitAI&root-directory=web)
 
+> 🌐 **Live Production Vercel PWA:** [https://gitai-web-git-main-hylgidra-7217s-projects.vercel.app](https://gitai-web-git-main-hylgidra-7217s-projects.vercel.app)  
+> 🎧 **1-Tap QR Playback (Savitsky Museum - Karakalpak):** [https://gitai-web-git-main-hylgidra-7217s-projects.vercel.app/q/savitsky01?lang=kaa](https://gitai-web-git-main-hylgidra-7217s-projects.vercel.app/q/savitsky01?lang=kaa)
+
 A production-grade, multi-tenant Audio Guide and Grounded AI Tourist Companion Progressive Web Application (PWA) built according to **Technical Specification (TZ v2.0)**.
 
 Designed for single-tap physical QR playback at cultural sites, interactive map exploration, offline bundle playback in remote desert zones, grounded AI concierge Q&A with strict anti-hallucination guardrails, and verified local tour guides discovery.
